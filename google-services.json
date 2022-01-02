@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "509625401242",
+    "firebase_url": "https://my-application-61416-default-rtdb.firebaseio.com",
+    "project_id": "my-application-61416",
+    "storage_bucket": "my-application-61416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509625401242:android:44212dd7fbe731a8544423",
+        "android_client_info": {
+          "package_name": "com.hudazamov.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509625401242-efe80cec6dutf9l71r0ai6sl211v0jn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSaTo1VFDoPqpsPAoe-v_vW-KetxLPpPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509625401242-efe80cec6dutf9l71r0ai6sl211v0jn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509625401242:android:4853fa30e5530ca4544423",
+        "android_client_info": {
+          "package_name": "com.hudazamov.virtualshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509625401242-efe80cec6dutf9l71r0ai6sl211v0jn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSaTo1VFDoPqpsPAoe-v_vW-KetxLPpPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509625401242-efe80cec6dutf9l71r0ai6sl211v0jn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
